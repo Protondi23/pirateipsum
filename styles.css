@@ -1,0 +1,44 @@
+body {
+    background-color: #ccc;
+    font-family: 'Nanum Brush Script', cursive;
+    width: 800px;
+    margin: -100px 600px 160px 150px;
+    font-size: x-large;  
+    display: block;
+    padding: 200px;
+}
+h1 {
+    font-family: 'Seaweed Script', cursive;
+    display: block;
+}
+.me-ship {
+    width: 300px;
+    float: right;
+    margin: -30px;
+    padding: 20px;
+    color: #333;
+    
+}
+.ship-container{
+    margin: 0px 0px 30px 30px;
+    float: right;
+}
+.me-booty {
+    width: 300px;
+    float: left;
+    padding: 0px;
+    margin: -10px;
+    color: #333;
+}
+.booty-container {
+	float: left;
+	margin: 0 50px 0px 5px;
+}
+.container {
+    background-color: white;
+    text-align: center;
+	width: 35%;
+	padding: 20px;
+	border: 1px solid #ddd;
+	box-shadow: 5px 5px #999;
+}
